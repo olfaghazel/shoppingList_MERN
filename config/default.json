@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://db0:database0@cluster0.tymme.mongodb.net/db0?retryWrites=true&w=majority",
+  "jwtSecret": "sl_myJwtSecret"
+}
